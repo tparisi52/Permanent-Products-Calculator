@@ -5,7 +5,7 @@ My intention is that this tool can be utilized by someone without any coding exp
 
 ## How to Use
 
-To run the program, first download all the code and move it into the same directory (the nine .m files). Open 'main.m' and follow the instructions at the top on how to select options. Then run the script by typing 'main' into the Command Window.
+To run the program, first download all the code (easily do so by clicking the green Code button and selecting Download ZIP) and move all nine .m files into the same directory. Open 'main.m' and follow the instructions at the top on how to select options. Then run the script by typing 'main' into the Command Window.
 
 The program takes in some inputs, such the matrix size and some information on how it should partition submatrices, which can be specfied by selecting between a few options. The relevant outputs are stored in the 'formattedResultTable' and 'formattedPosetAdjMatrix' variables; they respectively are the table of all permanent/determinant products and the adjacency-matrix of the induced partially ordered set (including the in & out degrees of each element). These two outputs are also written to an excel file.
 
