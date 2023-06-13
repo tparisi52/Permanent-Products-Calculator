@@ -1,7 +1,7 @@
 ## Permanent Products of Submatrices Calculator
 
-This program calculates permanent products (or determinants) of submatrices of unit-interval matrices. 
-My intention is that this tool can be utilized by someone without any coding experience. All that is needed is a way to run MATLAB scripts, which can be done in the [online editor](https://matlab.mathworks.com/). 
+This program calculates products of permanents (or determinants) of submatrices of unit-interval matrices. 
+My intention is that this tool can be utilized by someone without any coding experience. All that is needed is a way to run MATLAB scripts, which can be done in the [online editor](https://matlab.mathworks.com/). See [this post](https://www.mathworks.com/help/matlabmobile/ug/use-files-on-the-cloud.html) for how to use files on the cloud.
 
 ## How to Use
 
